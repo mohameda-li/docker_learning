@@ -23,4 +23,4 @@
 ## Usage
 - Start app: `docker compose up --build`
 - Scale Flask: `docker compose up --scale web=3 --build`
-- Access app: `http://localhost:5002`
+- Access app: `http://localhost:5002` and `http://localhost:5002/count`
